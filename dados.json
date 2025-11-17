@@ -1,0 +1,2298 @@
+{
+  "topicos": [
+    {
+      "id": "1.1",
+      "titulo": "Jardim de chuva/canteiro pluvial",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, reposição de plantas.",
+            "Custos de implantação: Baixo a médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "titulo": "Telhado verde",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Estrutura do telhado com capacidade de carga para suportar o peso do telhado verde, impermeabilização adequada, acesso à água para irrigação.",
+            "Requisitos de manutenção: Irrigação, poda de vegetação, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção da água da chuva e redução do efeito de ilha de calor em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, peso da estrutura, impermeabilização, acesso à água, resistência da população.",
+            "Desafios de manutenção: Irrigação, poda, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "titulo": "Parede verde/jardim vertical",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Estrutura da parede com capacidade de carga para suportar o peso da parede verde, impermeabilização adequada, acesso à água para irrigação.",
+            "Requisitos de manutenção: Irrigação, poda de vegetação, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade do ar e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Alta, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de remoção de poluentes atmosféricos e redução do efeito de ilha de calor em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, peso da estrutura, impermeabilização, acesso à água, resistência da população.",
+            "Desafios de manutenção: Irrigação, poda, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Indicadores de sucesso: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "titulo": "Bacia de biorretenção",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças) e meso escala (bairros).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, reposição de plantas.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "titulo": "Vala de infiltração/trincheira de infiltração",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos.",
+            "Custos de implantação: Baixo a médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Alta, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Baixa, com pouca criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Baixa, com pouca criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, recarga de aquíferos.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "titulo": "Pavimento permeável",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, calçadas, estacionamentos, praças) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, calçadas, estacionamentos, praças).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, desobstrução dos poros.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Alta, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com redução da temperatura da superfície.",
+            "Aumento da biodiversidade: Baixa, com pouca criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de superfícies esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência da população, falta de conhecimento técnico, entupimento dos poros.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, desobstrução dos poros, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, recarga de aquíferos.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "titulo": "Cisterna",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Espaço disponível para a cisterna, sistema de captação de água da chuva no telhado, sistema de bombeamento e distribuição da água.",
+            "Requisitos de manutenção: Limpeza periódica da cisterna, verificação do sistema de captação e bombeamento, tratamento da água.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Baixa, com pouca criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Baixa, com pouca criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção da água da chuva e redução do consumo de água potável em escala de edifício."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, espaço disponível, resistência da população, falta de conhecimento técnico.",
+            "Desafios de manutenção: Limpeza da cisterna, verificação do sistema de captação e bombeamento, tratamento da água.",
+            "Indicadores de sucesso: Redução do consumo de água potável, redução de enchentes.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "titulo": "Lagoa de retenção/detenção",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (parques, áreas verdes) ou privados (grandes empreendimentos).",
+            "Definição da escala: Mesoescala (bairros) e macroescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, controle de vetores.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, controle de vetores.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, controle de vetores, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.9",
+      "titulo": "Parque linear",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, ao longo de rios, córregos e fundos de vale.",
+            "Definição da escala: Mesoescala (bairros) e macroescala (cidades).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, controle de vetores.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, lagoas de retenção/detenção.",
+            "Efeito cumulativo: Aumento da capacidade de retenção e infiltração da água da chuva em escala de bacia hidrográfica, melhoria da qualidade da água e do ar, aumento da biodiversidade, valorização paisagística."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, controle de vetores.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, controle de vetores, vandalismo.",
+            "Indicadores de sucesso: Redução de enchentes, melhoria da qualidade da água, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.10",
+      "titulo": "Corredor ecológico",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, conectando fragmentos de vegetação nativa.",
+            "Definição da escala: Macroescala (regiões, biomas).",
+            "Condições de implantação: Áreas com vegetação nativa, com conectividade entre fragmentos, com acesso à água.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com conexão de habitats e fluxo gênico.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da biodiversidade."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de bioma."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Desapropriação de terras, custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.11",
+      "titulo": "Restauração florestal",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em áreas degradadas, margens de rios, nascentes, encostas.",
+            "Definição da escala: Mesoescala (propriedades rurais) e macroescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas degradadas, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Irrigação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Alta, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da biodiversidade."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Irrigação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.12",
+      "titulo": "Sistemas agroflorestais (SAFs)",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em propriedades rurais.",
+            "Definição da escala: Microescala (propriedades rurais) e mesoescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com declividade suave, solos férteis, com acesso à água.",
+            "Requisitos de manutenção: Poda de árvores, manejo de culturas, controle de pragas e doenças.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento de proprietários rurais e comunidades locais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manejo.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação ambiental e agrária.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais e linhas de crédito.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da produção e da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens produtivas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da agricultura sustentável."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da produção de alimentos, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de propriedade rural."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, acesso a mercados.",
+            "Desafios de manutenção: Poda de árvores, manejo de culturas, controle de pragas e doenças.",
+            "Indicadores de sucesso: Aumento da produção de alimentos, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.13",
+      "titulo": "Agricultura de baixo carbono",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em propriedades rurais.",
+            "Definição da escala: Microescala (propriedades rurais) e mesoescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com declividade suave, solos férteis, com acesso à água.",
+            "Requisitos de manutenção: Manejo de culturas, controle de pragas e doenças, rotação de culturas, plantio direto, integração lavoura-pecuária-floresta.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento de proprietários rurais e comunidades locais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manejo.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação ambiental e agrária.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais e linhas de crédito.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da produção e das emissões de gases de efeito estufa."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Baixa, com pouca criação de paisagens produtivas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da agricultura sustentável."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais.",
+            "Efeito cumulativo: Aumento da produção de alimentos, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de propriedade rural."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, acesso a mercados.",
+            "Desafios de manutenção: Manejo de culturas, controle de pragas e doenças, rotação de culturas, plantio direto, integração lavoura-pecuária-floresta.",
+            "Indicadores de sucesso: Aumento da produção de alimentos, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.14",
+      "titulo": "Manejo florestal sustentável",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em florestas nativas ou plantadas.",
+            "Definição da escala: Mesoescala (propriedades rurais) e macroescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com vegetação florestal, com acesso à água, com disponibilidade de mão de obra.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manejo.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais e linhas de crédito.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da produção e da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens produtivas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância do manejo florestal sustentável."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da produção de madeira e produtos não madeireiros, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de propriedade rural."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, acesso a mercados, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da produção de madeira e produtos não madeireiros, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.15",
+      "titulo": "Proteção e restauração de áreas úmidas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em áreas úmidas (pântanos, brejos, mangues, várzeas).",
+            "Definição da escala: Mesoescala (bacias hidrográficas) e macroescala (regiões, biomas).",
+            "Condições de implantação: Áreas úmidas degradadas, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância das áreas úmidas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Desapropriação de terras, custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.16",
+      "titulo": "Proteção e restauração de recifes de coral",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas costeiras e marinhas, em recifes de coral degradados.",
+            "Definição da escala: Microescala (recifes) e mesoescala (áreas costeiras).",
+            "Condições de implantação: Áreas com recifes de coral degradados, com acesso à água, com disponibilidade de mudas de coral.",
+            "Requisitos de manutenção: Monitoramento dos corais, controle de espécies invasoras, combate à pesca predatória, fiscalização.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de comunidades costeiras, pescadores e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental e pesqueira.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com proteção costeira contra ondas e ressacas.",
+            "Melhoria da qualidade da água: Média, com filtração da água do mar.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora marinha.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens marinhas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para mergulho e ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância dos recifes de coral."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Proteção e restauração de mangues, restingas, dunas.",
+            "Efeito cumulativo: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa em escala de área costeira."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de pescadores, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento dos corais, controle de espécies invasoras, combate à pesca predatória, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.17",
+      "titulo": "Proteção e restauração de mangues",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas costeiras e marinhas, em mangues degradados.",
+            "Definição da escala: Microescala (mangues) e mesoescala (áreas costeiras).",
+            "Condições de implantação: Áreas com mangues degradados, com acesso à água, com disponibilidade de mudas de mangue.",
+            "Requisitos de manutenção: Monitoramento dos mangues, controle de espécies invasoras, combate à pesca predatória, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de comunidades costeiras, pescadores e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental e pesqueira.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com proteção costeira contra ondas e ressacas.",
+            "Melhoria da qualidade da água: Alta, com filtração da água do mar.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora marinha.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens marinhas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância dos mangues."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Proteção e restauração de recifes de coral, restingas, dunas.",
+            "Efeito cumulativo: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa em escala de área costeira."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de pescadores, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento dos mangues, controle de espécies invasoras, combate à pesca predatória, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.18",
+      "titulo": "Proteção e restauração de restingas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas costeiras e marinhas, em restingas degradadas.",
+            "Definição da escala: Microescala (restingas) e mesoescala (áreas costeiras).",
+            "Condições de implantação: Áreas com restingas degradadas, com acesso à água, com disponibilidade de mudas de restinga.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de comunidades costeiras, pescadores e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental e pesqueira.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com proteção costeira contra ondas e ressacas.",
+            "Melhoria da qualidade da água: Média, com filtração da água do mar.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora costeira.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens costeiras e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância das restingas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Proteção e restauração de recifes de coral, mangues, dunas.",
+            "Efeito cumulativo: Aumento da biodiversidade costeira, proteção costeira, redução de emissões de gases de efeito estufa em escala de área costeira."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de pescadores, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade costeira, proteção costeira, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.19",
+      "titulo": "Proteção e restauração de dunas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas costeiras e marinhas, em dunas degradadas.",
+            "Definição da escala: Microescala (dunas) e mesoescala (áreas costeiras).",
+            "Condições de implantação: Áreas com dunas degradadas, com acesso à água, com disponibilidade de mudas de dunas.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de comunidades costeiras, pescadores e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental e pesqueira.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com proteção costeira contra ondas e ressacas.",
+            "Melhoria da qualidade da água: Média, com filtração da água do mar.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora costeira.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens costeiras e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância das dunas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Proteção e restauração de recifes de coral, mangues, restingas.",
+            "Efeito cumulativo: Aumento da biodiversidade costeira, proteção costeira, redução de emissões de gases de efeito estufa em escala de área costeira."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de pescadores, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade costeira, proteção costeira, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.20",
+      "titulo": "Recifes artificiais",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas costeiras e marinhas, em áreas com escassez de habitats naturais.",
+            "Definição da escala: Microescala (recifes) e mesoescala (áreas costeiras).",
+            "Condições de implantação: Áreas com escassez de habitats naturais, com acesso à água, com disponibilidade de materiais para construção dos recifes.",
+            "Requisitos de manutenção: Monitoramento dos recifes, controle de espécies invasoras, combate à pesca predatória, fiscalização.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de comunidades costeiras, pescadores e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental e pesqueira.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com proteção costeira contra ondas e ressacas.",
+            "Melhoria da qualidade da água: Média, com filtração da água do mar.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora marinha.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens marinhas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para mergulho e pesca esportiva.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância dos recifes artificiais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Proteção e restauração de recifes de coral, mangues, restingas, dunas.",
+            "Efeito cumulativo: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa em escala de área costeira."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de pescadores, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento dos recifes, controle de espécies invasoras, combate à pesca predatória, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade marinha, proteção costeira, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "titulo": "Reuso de água cinza",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Sistema de captação, tratamento e distribuição de água cinza, com espaço disponível para os equipamentos.",
+            "Requisitos de manutenção: Limpeza periódica dos filtros, verificação do sistema de bombeamento e distribuição, tratamento da água.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação sanitária e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Média, com tratamento da água cinza.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Baixa, com pouca criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Baixa, com pouca criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância do reuso de água."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Cisternas, telhados verdes, paredes verdes, jardins de chuva.",
+            "Efeito cumulativo: Redução do consumo de água potável e da geração de esgoto em escala de edifício."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, espaço disponível, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Limpeza dos filtros, verificação do sistema de bombeamento e distribuição, tratamento da água.",
+            "Indicadores de sucesso: Redução do consumo de água potável, redução da geração de esgoto.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "titulo": "Tratamento de esgoto com wetlands construídos",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em propriedades rurais, condomínios, pequenas comunidades.",
+            "Definição da escala: Microescala (propriedades rurais) e mesoescala (pequenas comunidades).",
+            "Condições de implantação: Espaço disponível para os wetlands, declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de esgoto.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, reposição de plantas.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação sanitária e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com tratamento do esgoto.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância do tratamento de esgoto."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de bacia hidrográfica, aumento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "titulo": "Biofiltros",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Espaço disponível para os biofiltros, sistema de captação e distribuição de água, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, reposição de plantas.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação sanitária e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância dos biofiltros."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de edifício, aumento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "titulo": "Jardins filtrantes",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, reposição de plantas.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de bacia hidrográfica, aumento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "titulo": "Bacias de sedimentação",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (parques, áreas verdes) ou privados (grandes empreendimentos).",
+            "Definição da escala: Mesoescala (bairros) e macroescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, poda de vegetação, controle de vetores.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, lagoas de retenção/detenção.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de bacia hidrográfica, redução de enchentes."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, controle de vetores.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, poda, controle de vetores, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, redução de enchentes.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.6",
+      "titulo": "Filtros de areia",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Espaço disponível para os filtros, sistema de captação e distribuição de água, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Limpeza periódica, remoção de sedimentos, reposição da areia.",
+            "Custos de implantação: Baixo a médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação sanitária e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Baixa, com pouca criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Baixa, com pouca criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância dos filtros de areia."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Cisternas, telhados verdes, paredes verdes, jardins de chuva.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de edifício."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, espaço disponível, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Limpeza, remoção de sedimentos, reposição da areia.",
+            "Indicadores de sucesso: Melhoria da qualidade da água.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.7",
+      "titulo": "Barreiras vegetadas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças).",
+            "Condições de implantação: Áreas com declividade suave, solos permeáveis ou semipermeáveis, com acesso à rede de drenagem pluvial.",
+            "Requisitos de manutenção: Poda de vegetação, remoção de ervas daninhas, reposição de plantas.",
+            "Custos de implantação: Baixo.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes e sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Melhoria da qualidade da água em escala de bacia hidrográfica, redução de enchentes."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Poda de vegetação, remoção de ervas daninhas, reposição de plantas, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, redução de enchentes.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.8",
+      "titulo": "Faixas de proteção ripária",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, ao longo de rios, córregos e nascentes.",
+            "Definição da escala: Mesoescala (bacias hidrográficas) e macroescala (regiões, biomas).",
+            "Condições de implantação: Áreas degradadas, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da biodiversidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de trilhas e espaços para ecoturismo.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Aumento da biodiversidade, proteção de recursos hídricos, redução de emissões de gases de efeito estufa.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.9",
+      "titulo": "Proteção de nascentes",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em nascentes degradadas.",
+            "Definição da escala: Microescala (nascentes) e mesoescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com nascentes degradadas, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Alta, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Alta, com necessidade de indicadores de desempenho e monitoramento da qualidade da água."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Alta, com proteção de nascentes.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Baixa, com pouca sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da água e da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Proteção de recursos hídricos, aumento da biodiversidade em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade da água, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.10",
+      "titulo": "Controle de erosão com vegetação",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em encostas, taludes, margens de rios e córregos.",
+            "Definição da escala: Microescala (encostas, taludes) e mesoescala (bacias hidrográficas).",
+            "Condições de implantação: Áreas com erosão, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais, comunidades locais e órgãos ambientais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da estabilidade do solo."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com redução do carreamento de sedimentos.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Baixa, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens naturais e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância do controle de erosão."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Restauração florestal, corredores ecológicos, sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Estabilização do solo, proteção de recursos hídricos, aumento da biodiversidade em escala de bacia hidrográfica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Monitoramento da vegetação, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Estabilização do solo, proteção de recursos hídricos, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.11",
+      "titulo": "Quebra-ventos",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas rurais e periurbanas, em propriedades rurais, áreas agrícolas.",
+            "Definição da escala: Microescala (propriedades rurais) e mesoescala (áreas agrícolas).",
+            "Condições de implantação: Áreas com ventos fortes, com acesso à água, com disponibilidade de mudas e sementes.",
+            "Requisitos de manutenção: Poda de árvores, controle de espécies invasoras, combate a incêndios, fiscalização.",
+            "Custos de implantação: Baixo a médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento de proprietários rurais e comunidades locais.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Baixa, com pouca necessidade de adequação da legislação ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Baixa, com pouca necessidade de indicadores de desempenho e monitoramento da proteção contra o vento."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca proteção de nascentes e cursos d'água.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de paisagens produtivas e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização da comunidade para a importância da proteção contra o vento."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Sistemas agroflorestais, agricultura de baixo carbono.",
+            "Efeito cumulativo: Proteção de culturas agrícolas, redução da erosão do solo, aumento da biodiversidade em escala de propriedade rural."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, resistência de proprietários rurais, falta de conhecimento técnico, fiscalização.",
+            "Desafios de manutenção: Poda de árvores, controle de espécies invasoras, combate a incêndios, fiscalização, vandalismo.",
+            "Indicadores de sucesso: Proteção de culturas agrícolas, redução da erosão do solo, aumento da biodiversidade.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.12",
+      "titulo": "Cortinas verdes",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em edifícios residenciais, comerciais e institucionais.",
+            "Definição da escala: Microescala (edifícios).",
+            "Condições de implantação: Estrutura da parede com capacidade de carga para suportar o peso da cortina verde, impermeabilização adequada, acesso à água para irrigação.",
+            "Requisitos de manutenção: Irrigação, poda de vegetação, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Custos de implantação: Médio a alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Média, com envolvimento dos moradores e usuários do edifício.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade do ar e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Alta, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Baixa, com pouca criação de espaços para convívio social.",
+            "Educação ambiental: Média, com sensibilização dos moradores e usuários para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Aumento da capacidade de remoção de poluentes atmosféricos e redução do efeito de ilha de calor em escala de edifício."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Custos, peso da estrutura, impermeabilização, acesso à água, resistência da população.",
+            "Desafios de manutenção: Irrigação, poda, remoção de ervas daninhas, reposição de plantas, verificação da impermeabilização.",
+            "Indicadores de sucesso: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.13",
+      "titulo": "Arborização urbana",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (ruas, praças, parques) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, ruas, praças) e mesoescala (bairros).",
+            "Condições de implantação: Espaço disponível para o plantio de árvores, solos adequados, acesso à água para irrigação.",
+            "Requisitos de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças.",
+            "Custos de implantação: Baixo a médio.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade do ar e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Alta, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis.",
+            "Efeito cumulativo: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.14",
+      "titulo": "Parques e praças",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos.",
+            "Definição da escala: Mesoescala (bairros) e macroescala (cidades).",
+            "Condições de implantação: Espaço disponível para o parque ou praça, solos adequados, acesso à água para irrigação.",
+            "Requisitos de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças, limpeza periódica.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade do ar e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Média, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Média, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Alta, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, arborização urbana.",
+            "Efeito cumulativo: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças, limpeza periódica, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.15",
+      "titulo": "Hortas urbanas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (terrenos baldios, praças) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, praças).",
+            "Condições de implantação: Espaço disponível para a horta, solos férteis, acesso à água para irrigação.",
+            "Requisitos de manutenção: Preparo do solo, plantio, irrigação, controle de pragas e doenças, colheita.",
+            "Custos de implantação: Baixo.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manejo.",
+            "Legislação e regulamentação: Baixa, com pouca necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Baixa, com pouca necessidade de indicadores de desempenho e monitoramento da produção."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da alimentação saudável e da agricultura urbana."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, arborização urbana, parques e praças.",
+            "Efeito cumulativo: Aumento da produção de alimentos, melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Preparo do solo, plantio, irrigação, controle de pragas e doenças, colheita, vandalismo.",
+            "Indicadores de sucesso: Aumento da produção de alimentos, melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.16",
+      "titulo": "Agricultura urbana",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (terrenos baldios, praças) ou privados (lotes, condomínios, edifícios).",
+            "Definição da escala: Microescala (lotes, edifícios, praças) e mesoescala (bairros).",
+            "Condições de implantação: Espaço disponível para a agricultura, solos férteis, acesso à água para irrigação.",
+            "Requisitos de manutenção: Preparo do solo, plantio, irrigação, controle de pragas e doenças, colheita.",
+            "Custos de implantação: Baixo.",
+            "Custos de manutenção: Baixo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manejo.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público ou privado, com possibilidade de incentivos fiscais.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da produção."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Baixa, com pouca retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Baixa, com pouca remoção de poluentes.",
+            "Recarga de aquíferos: Baixa, com pouca infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Média, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Média, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Média, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Média, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Média, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da alimentação saudável e da agricultura urbana."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, arborização urbana, parques e praças, hortas urbanas.",
+            "Efeito cumulativo: Aumento da produção de alimentos, melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Preparo do solo, plantio, irrigação, controle de pragas e doenças, colheita, vandalismo.",
+            "Indicadores de sucesso: Aumento da produção de alimentos, melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.17",
+      "titulo": "Florestas urbanas",
+      "eixos": [
+        {
+          "numero": 1,
+          "titulo": "Aptidão Espacial e Territorial",
+          "conteudo": [
+            "Tipologia da área: Áreas urbanas e periurbanas, em espaços públicos (parques, áreas verdes) ou privados (grandes empreendimentos).",
+            "Definição da escala: Mesoescala (bairros) e macroescala (cidades).",
+            "Condições de implantação: Espaço disponível para a floresta, solos adequados, acesso à água para irrigação.",
+            "Requisitos de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças, limpeza periódica.",
+            "Custos de implantação: Alto.",
+            "Custos de manutenção: Médio."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Condicionantes Sócio-organizacionais",
+          "conteudo": [
+            "Participação social: Alta, com envolvimento da comunidade na concepção, implantação e manutenção.",
+            "Capacitação técnica: Média, com necessidade de treinamento para implantação e manutenção.",
+            "Legislação e regulamentação: Média, com necessidade de adequação da legislação urbanística e ambiental.",
+            "Financiamento: Público, com possibilidade de parcerias público-privadas.",
+            "Monitoramento e avaliação: Média, com necessidade de indicadores de desempenho e monitoramento da qualidade do ar e da temperatura."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cobenefícios Socioambientais",
+          "conteudo": [
+            "Redução de enchentes: Alta, com retenção e infiltração da água da chuva.",
+            "Melhoria da qualidade da água: Média, com remoção de poluentes.",
+            "Recarga de aquíferos: Alta, com infiltração da água no solo.",
+            "Redução do efeito de ilha de calor: Alta, com sombreamento e evapotranspiração.",
+            "Aumento da biodiversidade: Alta, com criação de habitats para fauna e flora.",
+            "Melhoria da qualidade do ar: Alta, com remoção de poluentes atmosféricos.",
+            "Valorização paisagística: Alta, com criação de espaços verdes e esteticamente agradáveis.",
+            "Oportunidades de lazer e recreação: Alta, com criação de espaços para convívio social.",
+            "Educação ambiental: Alta, com sensibilização da comunidade para a importância da natureza."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sinergia entre Soluções e Efeito Cumulativo",
+          "conteudo": [
+            "Combinação com outras SbN: Jardins de chuva, telhados verdes, paredes verdes, bacias de biorretenção, valas de infiltração, pavimentos permeáveis, arborização urbana, parques e praças, hortas urbanas, agricultura urbana.",
+            "Efeito cumulativo: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística em escala de bairro."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Operacionalização e Sustentabilidade da Solução",
+          "conteudo": [
+            "Desafios de implantação: Espaço disponível, custos, resistência da população, falta de conhecimento técnico, legislação.",
+            "Desafios de manutenção: Poda de árvores, remoção de ervas daninhas, reposição de plantas, controle de pragas e doenças, limpeza periódica, vandalismo.",
+            "Indicadores de sucesso: Melhoria da qualidade do ar, redução do efeito de ilha de calor, aumento da biodiversidade, valorização paisagística.",
+            "Sustentabilidade a longo prazo: Depende da participação social, capacitação técnica, legislação e financiamento."
+          ]
+        }
+      ]
+    }
+  ]
+}
